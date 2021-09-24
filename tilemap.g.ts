@@ -1,32 +1,242 @@
 // Auto-generated code. Do not edit.
 namespace myTiles {
+
     //% fixedInstance jres blockIdentity=images._tile
     export const transparency16 = image.ofBuffer(hex``);
-
-    helpers._registerFactory("tilemap", function(name: string) {
-        switch(helpers.stringTrim(name)) {
-            case "level1":
-            case "level1":return tiles.createTilemap(hex`a5000900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000`, img`
-.....................................................................................................................................................................
-.....................................................................................................................................................................
-.....................................................................................................................................................................
-.....................................................................................................................................................................
-.....................................................................................................................................................................
-.....................................................................................................................................................................
-.....................................................................................................................................................................
-.....................................................................................................................................................................
-.....................................................................................................................................................................
-`, [myTiles.transparency16], TileScale.Sixteen);
-        }
-        return null;
-    })
-
-    helpers._registerFactory("tile", function(name: string) {
-        switch(helpers.stringTrim(name)) {
-            case "transparency16":return transparency16;
-        }
-        return null;
-    })
-
-}
-// Auto-generated code. Do not edit.
+    export const tile1 = image.ofBuffer(hex``);
+    export const tile2 = image.ofBuffer(hex``);
+    export const tile3 = image.ofBuffer(hex``);
+    export const tile4 = image.ofBuffer(hex``);
+    export const tile5 = image.ofBuffer(hex``);
+    export const tile6 = image.ofBuffer(hex``);
+    export const tile7 = image.ofBuffer(hex``);
+    export const tile8 = image.ofBuffer(hex``);
+    export const tile9 = image.ofBuffer(hex``);
+    export const tile10 = image.ofBuffer(hex``);
+    export const tile11 = image.ofBuffer(hex``);
+    export const tile12 = image.ofBuffer(hex``);
+    export const tile13 = image.ofBuffer(hex``);
+    export const tile14 = image.ofBuffer(hex``);
+    export const tile15 = image.ofBuffer(hex``);
+    export const tile16 = image.ofBuffer(hex``);
+    export const tile17 = image.ofBuffer(hex``);
+    export const tile18 = image.ofBuffer(hex``);
+    export const tile19 = image.ofBuffer(hex``);
+    export const tile20 = image.ofBuffer(hex``);
+    export const tile21 = image.ofBuffer(hex``);
+    export const tile22 = image.ofBuffer(hex``);
+    export const tile23 = image.ofBuffer(hex``);
+    export const tile24 = image.ofBuffer(hex``);
+    export const tile25 = image.ofBuffer(hex``);
+    export const tile26 = image.ofBuffer(hex``);
+    export const tile27 = image.ofBuffer(hex``);
+    export const tile28 = image.ofBuffer(hex``);
+    export const tile29 = image.ofBuffer(hex``);
+    export const tile30 = image.ofBuffer(hex``);
+    export const tile31 = image.ofBuffer(hex``);
+    export const tile32 = image.ofBuffer(hex``);
+    export const tile33 = image.ofBuffer(hex``);
+    export const tile34 = image.ofBuffer(hex``);
+    export const tile35 = image.ofBuffer(hex``);
+    export const tile36 = image.ofBuffer(hex``);
+    export const tile37 = image.ofBuffer(hex``);
+    export const tile38 = image.ofBuffer(hex``);
+    export const tile39 = image.ofBuffer(hex``);
+    export const tile40 = image.ofBuffer(hex``);
+    export const tile41 = image.ofBuffer(hex``);
+    export const tile42 = image.ofBuffer(hex``);
+    export const tile43 = image.ofBuffer(hex``);
+    export const tile44 = image.ofBuffer(hex``);
+    export const tile45 = image.ofBuffer(hex``);
+    export const tile46 = image.ofBuffer(hex``);
+    export const tile47 = image.ofBuffer(hex``);
+    export const tile48 = image.ofBuffer(hex``);
+    export const tile49 = image.ofBuffer(hex``);
+    export const tile50 = image.ofBuffer(hex``);
+    export const tile51 = image.ofBuffer(hex``);
+    export const tile52 = image.ofBuffer(hex``);
+    export const tile53 = image.ofBuffer(hex``);
+    export const tile54 = image.ofBuffer(hex``);
+    export const tile55 = image.ofBuffer(hex``);
+    export const tile56 = image.ofBuffer(hex``);
+    export const tile57 = image.ofBuffer(hex``);
+    export const tile58 = image.ofBuffer(hex``);
+    export const tile59 = image.ofBuffer(hex``);
+    export const tile60 = image.ofBuffer(hex``);
+    export const tile61 = image.ofBuffer(hex``);
+    export const tile62 = image.ofBuffer(hex``);
+    export const tile63 = image.ofBuffer(hex``);
+    export const tile64 = image.ofBuffer(hex``);
+    export const tile65 = image.ofBuffer(hex``);
+    export const tile66 = image.ofBuffer(hex``);
+    export const tile67 = image.ofBuffer(hex``);
+    export const tile68 = image.ofBuffer(hex``);
+    export const tile69 = image.ofBuffer(hex``);
+    export const tile70 = image.ofBuffer(hex``);
+    export const tile71 = image.ofBuffer(hex``);
+    export const tile72 = image.ofBuffer(hex``);
+    export const tile73 = image.ofBuffer(hex``);
+    export const tile74 = image.ofBuffer(hex``);
+    export const tile75 = image.ofBuffer(hex``);
+    export const tile76 = image.ofBuffer(hex``);
+    export const tile77 = image.ofBuffer(hex``);
+    export const tile78 = image.ofBuffer(hex``);
+    export const tile79 = image.ofBuffer(hex``);
+    export const tile80 = image.ofBuffer(hex``);
+    export const tile81 = image.ofBuffer(hex``);
+    export const tile82 = image.ofBuffer(hex``);
+    export const tile83 = image.ofBuffer(hex``);
+    export const tile84 = image.ofBuffer(hex``);
+    export const tile85 = image.ofBuffer(hex``);
+    export const tile86 = image.ofBuffer(hex``);
+    export const tile87 = image.ofBuffer(hex``);
+    export const tile88 = image.ofBuffer(hex``);
+    export const tile89 = image.ofBuffer(hex``);
+    export const tile90 = image.ofBuffer(hex``);
+    export const tile91 = image.ofBuffer(hex``);
+    export const tile92 = image.ofBuffer(hex``);
+    export const tile93 = image.ofBuffer(hex``);
+    export const tile94 = image.ofBuffer(hex``);
+    export const tile95 = image.ofBuffer(hex``);
+    export const tile96 = image.ofBuffer(hex``);
+    export const tile97 = image.ofBuffer(hex``);
+    export const tile98 = image.ofBuffer(hex``);
+    export const tile99 = image.ofBuffer(hex``);
+    export const tile100 = image.ofBuffer(hex``);
+    export const tile101 = image.ofBuffer(hex``);
+    export const tile102 = image.ofBuffer(hex``);
+    export const tile103 = image.ofBuffer(hex``);
+    export const tile104 = image.ofBuffer(hex``);
+    export const tile105 = image.ofBuffer(hex``);
+    export const tile106 = image.ofBuffer(hex``);
+    export const tile107 = image.ofBuffer(hex``);
+    export const tile108 = image.ofBuffer(hex``);
+    export const tile109 = image.ofBuffer(hex``);
+    export const tile110 = image.ofBuffer(hex``);
+    export const tile111 = image.ofBuffer(hex``);
+    export const tile112 = image.ofBuffer(hex``);
+    export const tile113 = image.ofBuffer(hex``);
+    export const tile114 = image.ofBuffer(hex``);
+    export const tile115 = image.ofBuffer(hex``);
+    export const tile116 = image.ofBuffer(hex``);
+    export const tile117 = image.ofBuffer(hex``);
+    export const tile118 = image.ofBuffer(hex``);
+    export const tile119 = image.ofBuffer(hex``);
+    export const tile120 = image.ofBuffer(hex``);
+    export const tile121 = image.ofBuffer(hex``);
+    export const tile122 = image.ofBuffer(hex``);
+    export const tile123 = image.ofBuffer(hex``);
+    export const tile124 = image.ofBuffer(hex``);
+    export const tile125 = image.ofBuffer(hex``);
+    export const tile126 = image.ofBuffer(hex``);
+    export const tile127 = image.ofBuffer(hex``);
+    export const tile128 = image.ofBuffer(hex``);
+    export const tile129 = image.ofBuffer(hex``);
+    export const tile130 = image.ofBuffer(hex``);
+    export const tile131 = image.ofBuffer(hex``);
+    export const tile132 = image.ofBuffer(hex``);
+    export const tile133 = image.ofBuffer(hex``);
+    export const tile134 = image.ofBuffer(hex``);
+    export const tile135 = image.ofBuffer(hex``);
+    export const tile136 = image.ofBuffer(hex``);
+    export const tile137 = image.ofBuffer(hex``);
+    export const tile138 = image.ofBuffer(hex``);
+    export const tile139 = image.ofBuffer(hex``);
+    export const tile140 = image.ofBuffer(hex``);
+    export const tile141 = image.ofBuffer(hex``);
+    export const tile142 = image.ofBuffer(hex``);
+    export const tile143 = image.ofBuffer(hex``);
+    export const tile144 = image.ofBuffer(hex``);
+    export const tile145 = image.ofBuffer(hex``);
+    export const tile146 = image.ofBuffer(hex``);
+    export const tile147 = image.ofBuffer(hex``);
+    export const tile148 = image.ofBuffer(hex``);
+    export const tile149 = image.ofBuffer(hex``);
+    export const tile150 = image.ofBuffer(hex``);
+    export const tile151 = image.ofBuffer(hex``);
+    export const tile152 = image.ofBuffer(hex``);
+    export const tile153 = image.ofBuffer(hex``);
+    export const tile154 = image.ofBuffer(hex``);
+    export const tile155 = image.ofBuffer(hex``);
+    export const tile156 = image.ofBuffer(hex``);
+    export const tile157 = image.ofBuffer(hex``);
+    export const tile158 = image.ofBuffer(hex``);
+    export const tile159 = image.ofBuffer(hex``);
+    export const tile160 = image.ofBuffer(hex``);
+    export const tile161 = image.ofBuffer(hex``);
+    export const tile162 = image.ofBuffer(hex``);
+    export const tile163 = image.ofBuffer(hex``);
+    export const tile164 = image.ofBuffer(hex``);
+    export const tile165 = image.ofBuffer(hex``);
+    export const tile166 = image.ofBuffer(hex``);
+    export const tile167 = image.ofBuffer(hex``);
+    export const tile168 = image.ofBuffer(hex``);
+    export const tile169 = image.ofBuffer(hex``);
+    export const tile170 = image.ofBuffer(hex``);
+    export const tile171 = image.ofBuffer(hex``);
+    export const tile172 = image.ofBuffer(hex``);
+    export const tile173 = image.ofBuffer(hex``);
+    export const tile174 = image.ofBuffer(hex``);
+    export const tile175 = image.ofBuffer(hex``);
+    export const tile176 = image.ofBuffer(hex``);
+    export const tile177 = image.ofBuffer(hex``);
+    export const tile178 = image.ofBuffer(hex``);
+    export const tile179 = image.ofBuffer(hex``);
+    export const tile180 = image.ofBuffer(hex``);
+    export const tile181 = image.ofBuffer(hex``);
+    export const tile182 = image.ofBuffer(hex``);
+    export const tile183 = image.ofBuffer(hex``);
+    export const tile184 = image.ofBuffer(hex``);
+    export const tile185 = image.ofBuffer(hex``);
+    export const tile186 = image.ofBuffer(hex``);
+    export const tile187 = image.ofBuffer(hex``);
+    export const tile188 = image.ofBuffer(hex``);
+    export const tile189 = image.ofBuffer(hex``);
+    export const tile190 = image.ofBuffer(hex``);
+    export const tile191 = image.ofBuffer(hex``);
+    export const tile192 = image.ofBuffer(hex``);
+    export const tile193 = image.ofBuffer(hex``);
+    export const tile194 = image.ofBuffer(hex``);
+    export const tile195 = image.ofBuffer(hex``);
+    export const tile196 = image.ofBuffer(hex``);
+    export const tile197 = image.ofBuffer(hex``);
+    export const tile198 = image.ofBuffer(hex``);
+    export const tile199 = image.ofBuffer(hex``);
+    export const tile200 = image.ofBuffer(hex``);
+    export const tile201 = image.ofBuffer(hex``);
+    export const tile202 = image.ofBuffer(hex``);
+    export const tile203 = image.ofBuffer(hex``);
+    export const tile204 = image.ofBuffer(hex``);
+    export const tile205 = image.ofBuffer(hex``);
+    export const tile206 = image.ofBuffer(hex``);
+    export const tile207 = image.ofBuffer(hex``);
+    export const tile208 = image.ofBuffer(hex``);
+    export const tile209 = image.ofBuffer(hex``);
+    export const tile210 = image.ofBuffer(hex``);
+    export const tile211 = image.ofBuffer(hex``);
+    export const tile212 = image.ofBuffer(hex``);
+    export const tile213 = image.ofBuffer(hex``);
+    export const tile214 = image.ofBuffer(hex``);
+    export const tile215 = image.ofBuffer(hex``);
+    export const tile216 = image.ofBuffer(hex``);
+    export const tile217 = image.ofBuffer(hex``);
+    export const tile218 = image.ofBuffer(hex``);
+    export const tile219 = image.ofBuffer(hex``);
+    export const tile220 = image.ofBuffer(hex``);
+    export const tile221 = image.ofBuffer(hex``);
+    export const tile222 = image.ofBuffer(hex``);
+    export const tile223 = image.ofBuffer(hex``);
+    export const tile224 = image.ofBuffer(hex``);
+    export const tile225 = image.ofBuffer(hex``);
+    export const tile226 = image.ofBuffer(hex``);
+    export const tile227 = image.ofBuffer(hex``);
+    export const tile228 = image.ofBuffer(hex``);
+    export const tile229 = image.ofBuffer(hex``);
+    export const tile230 = image.ofBuffer(hex``);
+    export const tile231 = image.ofBuffer(hex``);
+    export const tile232 = image.ofBuffer(hex``);
+    export const tile233 = image.ofBuffer(hex``);
+    
+    }
+    // Auto-generated code. Do not edit.
+    
