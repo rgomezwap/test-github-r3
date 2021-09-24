@@ -1,1 +1,5 @@
-
+scene.setBackgroundImage(assets.image`background1`)
+tiles.setTilemap(tilemap`level1`)
+let mySprite = sprites.create(assets.image`plane0`, SpriteKind.Player)
+controller.moveSprite(mySprite, 150, 150)
+scene.cameraFollowSprite(mySprite)

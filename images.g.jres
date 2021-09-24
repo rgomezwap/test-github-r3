@@ -4,10 +4,14 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "background1"
     },
+    "image2": {
+        "data": "hwQYABAAAAAAAADwDwAAAAAAACwPAAAA/P/PIg8AAABMJPLCD8D8AMxEIswPL/IAwEwkwvwi8gAAzCzCLCLyAADALMIiIvIPAMAiwiJC/P8AwCLCIkT//wAvIiJM9P//AC8iIkL/L/IALyIiIvzM/PAsIiIi8sIPz0wimyLy/wDPTCKRIvIAAC9MJBEi8gAALy+0ESLyAAD/z5sZIvIAAP/Ambki8gAAAACcKyIPAAAAAMAiIg8AAAAAACzyAAAAAAAAwA8AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "plane0"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
         "namespace": "myImages"
     }
-    }
-    
+}
